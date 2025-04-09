@@ -49,6 +49,42 @@ module.private = {
                      (heading6
                          title: (paragraph_segment) @next-segment
                      )
+                     (heading7
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading8
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading9
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading10
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading11
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading12
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading13
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading14
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading15
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading16
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading17
+                         title: (paragraph_segment) @next-segment
+                     )
+                     (heading18
+                         title: (paragraph_segment) @next-segment
+                     )
                  ]
              ]],
 }

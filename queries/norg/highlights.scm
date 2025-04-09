@@ -66,6 +66,30 @@
         (paragraph) @neorg.links.location.heading.5)
      ((link_target_heading6) @neorg.links.location.heading.6.prefix
         (paragraph) @neorg.links.location.heading.6)
+     ((link_target_heading7) @neorg.links.location.heading.7.prefix
+        (paragraph) @neorg.links.location.heading.7)
+     ((link_target_heading8) @neorg.links.location.heading.8.prefix
+        (paragraph) @neorg.links.location.heading.8)
+     ((link_target_heading9) @neorg.links.location.heading.9.prefix
+        (paragraph) @neorg.links.location.heading.9)
+     ((link_target_heading10) @neorg.links.location.heading.10.prefix
+        (paragraph) @neorg.links.location.heading.10)
+     ((link_target_heading11) @neorg.links.location.heading.11.prefix
+        (paragraph) @neorg.links.location.heading.11)
+     ((link_target_heading12) @neorg.links.location.heading.12.prefix
+        (paragraph) @neorg.links.location.heading.12)
+     ((link_target_heading13) @neorg.links.location.heading.13.prefix
+        (paragraph) @neorg.links.location.heading.13)
+     ((link_target_heading14) @neorg.links.location.heading.14.prefix
+        (paragraph) @neorg.links.location.heading.14)
+     ((link_target_heading15) @neorg.links.location.heading.15.prefix
+        (paragraph) @neorg.links.location.heading.15)
+     ((link_target_heading16) @neorg.links.location.heading.16.prefix
+        (paragraph) @neorg.links.location.heading.16)
+     ((link_target_heading17) @neorg.links.location.heading.17.prefix
+        (paragraph) @neorg.links.location.heading.17)
+     ((link_target_heading18) @neorg.links.location.heading.18.prefix
+        (paragraph) @neorg.links.location.heading.18)
      ((link_target_wiki) @neorg.links.location.wiki.prefix
         (paragraph) @neorg.links.location.wiki)
      ((link_target_timestamp) @neorg.links.location.timestamp.prefix
@@ -115,6 +139,30 @@
           (paragraph) @neorg.links.location.heading.5)
        ((link_target_heading6) @neorg.links.location.heading.6.prefix
           (paragraph) @neorg.links.location.heading.6)
+       ((link_target_heading7) @neorg.links.location.heading.7.prefix
+          (paragraph) @neorg.links.location.heading.7)
+       ((link_target_heading8) @neorg.links.location.heading.8.prefix
+          (paragraph) @neorg.links.location.heading.8)
+       ((link_target_heading9) @neorg.links.location.heading.9.prefix
+          (paragraph) @neorg.links.location.heading.9)
+       ((link_target_heading10) @neorg.links.location.heading.10.prefix
+          (paragraph) @neorg.links.location.heading.10)
+       ((link_target_heading11) @neorg.links.location.heading.11.prefix
+          (paragraph) @neorg.links.location.heading.11)
+       ((link_target_heading12) @neorg.links.location.heading.12.prefix
+          (paragraph) @neorg.links.location.heading.12)
+       ((link_target_heading13) @neorg.links.location.heading.13.prefix
+          (paragraph) @neorg.links.location.heading.13)
+       ((link_target_heading14) @neorg.links.location.heading.14.prefix
+          (paragraph) @neorg.links.location.heading.14)
+       ((link_target_heading15) @neorg.links.location.heading.15.prefix
+          (paragraph) @neorg.links.location.heading.15)
+       ((link_target_heading16) @neorg.links.location.heading.16.prefix
+          (paragraph) @neorg.links.location.heading.16)
+       ((link_target_heading17) @neorg.links.location.heading.17.prefix
+          (paragraph) @neorg.links.location.heading.17)
+       ((link_target_heading18) @neorg.links.location.heading.18.prefix
+          (paragraph) @neorg.links.location.heading.18)
        ((link_target_wiki) @neorg.links.location.wiki.prefix
           (paragraph) @neorg.links.location.wiki)
        ((link_target_timestamp) @neorg.links.location.timestamp.prefix
@@ -140,6 +188,43 @@
 (heading6
   (heading6_prefix) @neorg.headings.6.prefix
   title: (paragraph_segment) @neorg.headings.6.title)
+(heading7
+  (heading7_prefix) @neorg.headings.7.prefix
+  title: (paragraph_segment) @neorg.headings.7.title)
+(heading8
+  (heading8_prefix) @neorg.headings.8.prefix
+  title: (paragraph_segment) @neorg.headings.8.title)
+(heading9
+  (heading9_prefix) @neorg.headings.9.prefix
+  title: (paragraph_segment) @neorg.headings.9.title)
+(heading10
+  (heading10_prefix) @neorg.headings.10.prefix
+  title: (paragraph_segment) @neorg.headings.10.title)
+(heading11
+  (heading11_prefix) @neorg.headings.11.prefix
+  title: (paragraph_segment) @neorg.headings.11.title)
+(heading12
+  (heading12_prefix) @neorg.headings.12.prefix
+  title: (paragraph_segment) @neorg.headings.12.title)
+(heading13
+  (heading13_prefix) @neorg.headings.13.prefix
+  title: (paragraph_segment) @neorg.headings.13.title)
+(heading14
+  (heading14_prefix) @neorg.headings.14.prefix
+  title: (paragraph_segment) @neorg.headings.14.title)
+(heading15
+  (heading15_prefix) @neorg.headings.15.prefix
+  title: (paragraph_segment) @neorg.headings.15.title)
+(heading16
+  (heading16_prefix) @neorg.headings.16.prefix
+  title: (paragraph_segment) @neorg.headings.16.title)
+(heading17
+  (heading17_prefix) @neorg.headings.17.prefix
+  title: (paragraph_segment) @neorg.headings.17.title)
+(heading18
+  (heading18_prefix) @neorg.headings.18.prefix
+  title: (paragraph_segment) @neorg.headings.18.title)
+
 
 ; Display errors
 (ERROR) @neorg.error

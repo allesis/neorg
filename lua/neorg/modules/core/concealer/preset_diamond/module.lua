@@ -5,7 +5,26 @@ local module = modules.create("core.concealer.preset_diamond")
 
 module.config.private.icon_preset_diamond = {
     heading = {
-        icons = { "◈", "◇", "◆", "⋄", "❖", "⟡" },
+        icons = {
+            "◈",
+            "◇",
+            "◆",
+            "⋄",
+            "❖",
+            "⟡",
+            "◈",
+            "◇",
+            "◆",
+            "⋄",
+            "❖",
+            "⟡",
+            "◈",
+            "◇",
+            "◆",
+            "⋄",
+            "❖",
+            "⟡",
+        },
     },
 
     footnote = {
